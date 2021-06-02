@@ -1,0 +1,16 @@
+D:\Recursos\dotnet\solid\SingleResponsabilityPrinciple\bin\Debug\net5.0\SingleResponsabilityPrinciple.exe
+D:\Recursos\dotnet\solid\SingleResponsabilityPrinciple\bin\Debug\net5.0\SingleResponsabilityPrinciple.deps.json
+D:\Recursos\dotnet\solid\SingleResponsabilityPrinciple\bin\Debug\net5.0\SingleResponsabilityPrinciple.runtimeconfig.json
+D:\Recursos\dotnet\solid\SingleResponsabilityPrinciple\bin\Debug\net5.0\SingleResponsabilityPrinciple.runtimeconfig.dev.json
+D:\Recursos\dotnet\solid\SingleResponsabilityPrinciple\bin\Debug\net5.0\SingleResponsabilityPrinciple.dll
+D:\Recursos\dotnet\solid\SingleResponsabilityPrinciple\bin\Debug\net5.0\ref\SingleResponsabilityPrinciple.dll
+D:\Recursos\dotnet\solid\SingleResponsabilityPrinciple\bin\Debug\net5.0\SingleResponsabilityPrinciple.pdb
+D:\Recursos\dotnet\solid\SingleResponsabilityPrinciple\obj\Debug\net5.0\SingleResponsabilityPrinciple.csprojAssemblyReference.cache
+D:\Recursos\dotnet\solid\SingleResponsabilityPrinciple\obj\Debug\net5.0\SingleResponsabilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Recursos\dotnet\solid\SingleResponsabilityPrinciple\obj\Debug\net5.0\SingleResponsabilityPrinciple.AssemblyInfoInputs.cache
+D:\Recursos\dotnet\solid\SingleResponsabilityPrinciple\obj\Debug\net5.0\SingleResponsabilityPrinciple.AssemblyInfo.cs
+D:\Recursos\dotnet\solid\SingleResponsabilityPrinciple\obj\Debug\net5.0\SingleResponsabilityPrinciple.csproj.CoreCompileInputs.cache
+D:\Recursos\dotnet\solid\SingleResponsabilityPrinciple\obj\Debug\net5.0\SingleResponsabilityPrinciple.dll
+D:\Recursos\dotnet\solid\SingleResponsabilityPrinciple\obj\Debug\net5.0\ref\SingleResponsabilityPrinciple.dll
+D:\Recursos\dotnet\solid\SingleResponsabilityPrinciple\obj\Debug\net5.0\SingleResponsabilityPrinciple.pdb
+D:\Recursos\dotnet\solid\SingleResponsabilityPrinciple\obj\Debug\net5.0\SingleResponsabilityPrinciple.genruntimeconfig.cache
