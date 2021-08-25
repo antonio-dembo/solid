@@ -1,0 +1,16 @@
+D:\Recursos\dotnet\solid\ListkovSubstitutionPrinciple\bin\Debug\net5.0\ListkovSubstitutionPrinciple.exe
+D:\Recursos\dotnet\solid\ListkovSubstitutionPrinciple\bin\Debug\net5.0\ListkovSubstitutionPrinciple.deps.json
+D:\Recursos\dotnet\solid\ListkovSubstitutionPrinciple\bin\Debug\net5.0\ListkovSubstitutionPrinciple.runtimeconfig.json
+D:\Recursos\dotnet\solid\ListkovSubstitutionPrinciple\bin\Debug\net5.0\ListkovSubstitutionPrinciple.runtimeconfig.dev.json
+D:\Recursos\dotnet\solid\ListkovSubstitutionPrinciple\bin\Debug\net5.0\ListkovSubstitutionPrinciple.dll
+D:\Recursos\dotnet\solid\ListkovSubstitutionPrinciple\bin\Debug\net5.0\ref\ListkovSubstitutionPrinciple.dll
+D:\Recursos\dotnet\solid\ListkovSubstitutionPrinciple\bin\Debug\net5.0\ListkovSubstitutionPrinciple.pdb
+D:\Recursos\dotnet\solid\ListkovSubstitutionPrinciple\obj\Debug\net5.0\ListkovSubstitutionPrinciple.csprojAssemblyReference.cache
+D:\Recursos\dotnet\solid\ListkovSubstitutionPrinciple\obj\Debug\net5.0\ListkovSubstitutionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Recursos\dotnet\solid\ListkovSubstitutionPrinciple\obj\Debug\net5.0\ListkovSubstitutionPrinciple.AssemblyInfoInputs.cache
+D:\Recursos\dotnet\solid\ListkovSubstitutionPrinciple\obj\Debug\net5.0\ListkovSubstitutionPrinciple.AssemblyInfo.cs
+D:\Recursos\dotnet\solid\ListkovSubstitutionPrinciple\obj\Debug\net5.0\ListkovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+D:\Recursos\dotnet\solid\ListkovSubstitutionPrinciple\obj\Debug\net5.0\ListkovSubstitutionPrinciple.dll
+D:\Recursos\dotnet\solid\ListkovSubstitutionPrinciple\obj\Debug\net5.0\ref\ListkovSubstitutionPrinciple.dll
+D:\Recursos\dotnet\solid\ListkovSubstitutionPrinciple\obj\Debug\net5.0\ListkovSubstitutionPrinciple.pdb
+D:\Recursos\dotnet\solid\ListkovSubstitutionPrinciple\obj\Debug\net5.0\ListkovSubstitutionPrinciple.genruntimeconfig.cache
