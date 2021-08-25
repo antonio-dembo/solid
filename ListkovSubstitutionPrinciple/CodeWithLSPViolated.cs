@@ -1,8 +1,13 @@
 namespace ListkovSubstitutionPrinciple
 {
-    public class Triangle
+    public abstract class Shape
     {
-        public virtual string GetShape()
+        public abstract string GetShape();
+    }
+
+    public class Triangle : Shape
+    {
+        public override string GetShape()
         {
             return "Triangle";
         }
