@@ -1,0 +1,16 @@
+D:\Recursos\dotnet\solid\InterfaceSegregationPrinciple\bin\Debug\net5.0\InterfaceSegregationPrinciple.exe
+D:\Recursos\dotnet\solid\InterfaceSegregationPrinciple\bin\Debug\net5.0\InterfaceSegregationPrinciple.deps.json
+D:\Recursos\dotnet\solid\InterfaceSegregationPrinciple\bin\Debug\net5.0\InterfaceSegregationPrinciple.runtimeconfig.json
+D:\Recursos\dotnet\solid\InterfaceSegregationPrinciple\bin\Debug\net5.0\InterfaceSegregationPrinciple.runtimeconfig.dev.json
+D:\Recursos\dotnet\solid\InterfaceSegregationPrinciple\bin\Debug\net5.0\InterfaceSegregationPrinciple.dll
+D:\Recursos\dotnet\solid\InterfaceSegregationPrinciple\bin\Debug\net5.0\ref\InterfaceSegregationPrinciple.dll
+D:\Recursos\dotnet\solid\InterfaceSegregationPrinciple\bin\Debug\net5.0\InterfaceSegregationPrinciple.pdb
+D:\Recursos\dotnet\solid\InterfaceSegregationPrinciple\obj\Debug\net5.0\InterfaceSegregationPrinciple.csprojAssemblyReference.cache
+D:\Recursos\dotnet\solid\InterfaceSegregationPrinciple\obj\Debug\net5.0\InterfaceSegregationPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Recursos\dotnet\solid\InterfaceSegregationPrinciple\obj\Debug\net5.0\InterfaceSegregationPrinciple.AssemblyInfoInputs.cache
+D:\Recursos\dotnet\solid\InterfaceSegregationPrinciple\obj\Debug\net5.0\InterfaceSegregationPrinciple.AssemblyInfo.cs
+D:\Recursos\dotnet\solid\InterfaceSegregationPrinciple\obj\Debug\net5.0\InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+D:\Recursos\dotnet\solid\InterfaceSegregationPrinciple\obj\Debug\net5.0\InterfaceSegregationPrinciple.dll
+D:\Recursos\dotnet\solid\InterfaceSegregationPrinciple\obj\Debug\net5.0\ref\InterfaceSegregationPrinciple.dll
+D:\Recursos\dotnet\solid\InterfaceSegregationPrinciple\obj\Debug\net5.0\InterfaceSegregationPrinciple.pdb
+D:\Recursos\dotnet\solid\InterfaceSegregationPrinciple\obj\Debug\net5.0\InterfaceSegregationPrinciple.genruntimeconfig.cache
