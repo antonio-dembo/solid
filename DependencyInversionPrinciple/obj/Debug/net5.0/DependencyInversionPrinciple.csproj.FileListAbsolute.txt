@@ -1,0 +1,16 @@
+D:\Recursos\dotnet\solid\DependencyInversionPrinciple\bin\Debug\net5.0\DependencyInversionPrinciple.exe
+D:\Recursos\dotnet\solid\DependencyInversionPrinciple\bin\Debug\net5.0\DependencyInversionPrinciple.deps.json
+D:\Recursos\dotnet\solid\DependencyInversionPrinciple\bin\Debug\net5.0\DependencyInversionPrinciple.runtimeconfig.json
+D:\Recursos\dotnet\solid\DependencyInversionPrinciple\bin\Debug\net5.0\DependencyInversionPrinciple.runtimeconfig.dev.json
+D:\Recursos\dotnet\solid\DependencyInversionPrinciple\bin\Debug\net5.0\DependencyInversionPrinciple.dll
+D:\Recursos\dotnet\solid\DependencyInversionPrinciple\bin\Debug\net5.0\ref\DependencyInversionPrinciple.dll
+D:\Recursos\dotnet\solid\DependencyInversionPrinciple\bin\Debug\net5.0\DependencyInversionPrinciple.pdb
+D:\Recursos\dotnet\solid\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.csprojAssemblyReference.cache
+D:\Recursos\dotnet\solid\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Recursos\dotnet\solid\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.AssemblyInfoInputs.cache
+D:\Recursos\dotnet\solid\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.AssemblyInfo.cs
+D:\Recursos\dotnet\solid\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+D:\Recursos\dotnet\solid\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.dll
+D:\Recursos\dotnet\solid\DependencyInversionPrinciple\obj\Debug\net5.0\ref\DependencyInversionPrinciple.dll
+D:\Recursos\dotnet\solid\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.pdb
+D:\Recursos\dotnet\solid\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.genruntimeconfig.cache
