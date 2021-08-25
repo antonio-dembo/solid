@@ -6,7 +6,10 @@ namespace ListkovSubstitutionPrinciple
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // We cannot simply substitute a Triangle, which results in printing
+            // shape of a triangle, with Circle.
+            Triangle triangle = new Circle();
+            Console.WriteLine(triangle.GetShape());
         }
     }
 }
